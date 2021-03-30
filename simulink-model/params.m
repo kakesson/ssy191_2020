@@ -2,8 +2,8 @@
 m = 0.027;                  % Mass
 g = 9.81;                   % Gravitational acceleration
 d = 0.046;                  % Distance from center of mass to rotor axis
-lift = 1E-9;                   % Lift constant
-drag = 2.75E-11;               % Drag constant
+lift = 1.9796E-9;                   % Lift constant
+drag =  2.5383E-11;               % Drag constant
 
 % Init state
 % init_pos = [0;0;0];         % Position
